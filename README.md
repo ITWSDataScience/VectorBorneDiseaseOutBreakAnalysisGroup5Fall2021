@@ -1,1 +1,6 @@
-# VectorBorneDiseaseOutBreakAnalysisGroup5Fall2021
+# DataScience2021_Final_Project
+
+This repo holds all the code used for data gathering, analysis and our resulting data
+
+### Abstract
+This research project focused on the spread of vector borne diseases, more specifically, Crimean-Congo Hemorrhagic Fever (CCHF). The goal of this project is to explore the ways that environmental factors may affect the spread of CCHF in Western Asia, from the years 2000 to 2010. To accomplish this, environmental factors such as rainfall, humidity, and vegetation will be observed and compared to data containing the number of CCHF cases. Choosing a variety of environmental factors will give a more well-rounded overview on their effects towards CCHF. For the data sets chosen, the NASA GPM will be used for precipitation, the NASA MODIS contains vegetation index datasets, and the CCHF data will be obtained from ProMed mails. Initially UNData was to be used for the number of noted cases, but seems to lack the CCHF data so a new data set needs to be found for this. By comparing these sets of data, it can be determined which environmental factors have a correlated effect on the spread of CCHF. The end goal of this is to investigate and identify which additional regions might become endemic for CCHF because they contain similar environmental factors. This investigation will be made by observing if an unaffected region’s environmental factors are changing to become similar to an endemic region's climate factors and variables.

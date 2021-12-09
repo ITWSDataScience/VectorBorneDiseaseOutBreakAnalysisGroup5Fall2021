@@ -1,0 +1,485 @@
+	id	title	zoom_lat	zoom_lon	zoom_level	alert_id	feed_id	summary	issue_date	load_date	incident_date	descr	alert_tag_id	dup_count	dup_of	unique_string	info_hash	submitted_by	reviewed	search_string_id	content
+631661	631661	['Undiagnosed hemorrhagic fever, fatal - India (02): (GJ) CCHF conf.']	22.998800	72.004303	4	631661	1	PRO/AH/EDR> Undiagnosed hemorrhagic fever, fatal - India (02): (GJ) CCHF conf.	2011-01-18 23:00:04	2011-01-18 23:00:07		"Source: Thaindian News, Indo Asian News Service (IANS) report [edited]<br/><br/><<a href=""http://www.thaindian.com/newsportal/health1/mystery-virus-which-killed-three-identified_100489848.html"" target=""_blank"">http://www.thaindian.com/newsportal/health1/mystery-virus-which-killed-three-identified_100489848.html</a>><br/><br/>Mystery virus which killed 3 identified<br/><br/>---------------------------------------<br/><br/>The mystery virus that created a panic of sorts among the medical <br/><br/>fraternity in Ahmedabad [Gujarat] </a>..."	1	0		20110118.0216	4b12c4317072f1e2b2219f85abf99954				"<html>
+<head>
+
+<link rel=""stylesheet"" href=""/i/css/apex_4_0.css"" type=""text/css"" /><!--[if IE]><link rel=""stylesheet"" href=""/i/css/apex_ie_4_0.css"" type=""text/css"" /><![endif]--><link rel=""stylesheet"" href=""/i/libraries/jquery-ui/1.8/themes/base/jquery-ui-1.8.custom.min.css"" type=""text/css"" /><script type=""text/javascript"">var apex_img_dir = ""/i/"", htmldb_Img_Dir = apex_img_dir;</script><script src=""/i/libraries/jquery/1.4.2/jquery-1.4.2.min.js"" type=""text/javascript""></script>
+<script src=""/i/javascript/apex_4_0.js"" type=""text/javascript""></script>
+<script src=""/i/javascript/apex_legacy_4_0.js"" type=""text/javascript""></script>
+<script src=""/i/javascript/apex_widget_4_0.js"" type=""text/javascript""></script>
+<script src=""/i/javascript/apex_dynamic_actions_4_0.js"" type=""text/javascript""></script>
+<script src=""/i/libraries/jquery-ui/1.8/ui/minified/jquery-ui-1.8.custom.min.js"" type=""text/javascript""></script>
+
+<meta http-equiv=""Content-Type"" content=""text/html; charset=utf-8"" />
+<link rel=""stylesheet"" href=""wwv_flow_file_mgr.get_file?p_security_group_id=84427629377859852&p_fname=promed.css"" type=""text/css"">
+<title></title>
+</head>
+<body bgcolor=""#ffffff"" topmargin=""0"" leftmargin=""0"" marginheight=""0"" marginwidth=""0"">
+<form action=""wwv_flow.accept"" method=""post"" name=""wwv_flow"" id=""wwvFlowForm"">
+<input type=""hidden"" name=""p_flow_id"" value=""2400"" id=""pFlowId"" /><input type=""hidden"" name=""p_flow_step_id"" value=""1001"" id=""pFlowStepId"" /><input type=""hidden"" name=""p_instance"" value=""3192722651255097"" id=""pInstance"" /><input type=""hidden"" name=""p_page_submission_id"" value=""700306753110599"" id=""pPageSubmissionId"" /><input type=""hidden"" name=""p_request"" value="""" id=""pRequest"" /><table width=""740"" cellpadding=""0"" cellspacing=""0"" border=""0"">
+  <tr>
+    <td width=""740"" valign=""top"">
+      <img src=""/i/clear.gif"" height=""1"">
+    </td>
+  </tr>
+  <tr>
+    <td width=""4"" valign=""top"">
+      <img src=""/i/clear.gif"">
+    </td>
+    <td width=""180"" valign=""top"">
+      <a href=""http://www.isid.org/"" border=""0""><img src=""wwv_flow_file_mgr.get_file?p_security_group_id=84427629377859852&p_fname=logo_isid_dark_w_line.GIF"" width=""180"" 
+               height=""110"" border=""0"" alt=""ISID Home""></a>
+    </td>
+    <td width=""556"" valign=""TOP"">
+      <table cellpadding=""0"" cellspacing=""0"" border=""0"" width=""556"">
+        <tr>
+          <td colspan=2 height=1 bgcolor=black><img src=""/i/clear.gif"" width=1 height=1></td>
+        </tr>
+        <tr>
+          <td style=""border-left-style:solid; border-left-color:#006699;"" width=""556"" 
+                     valign=""bottom"" height=""23"" class=""sectionHeader"">
+            <!-- start: top navigation --> <a href=""http://www.isid.org/about/""><font color=""WHITE"">about ISID | </font></a><a href=""http://www.isid.org/membership/""><font color=""WHITE"">membership | </font></a><a href=""http://www.isid.org/programs/""><font color=""WHITE"">programs | </font></a><a href=""http://www.isid.org/publications/""><font color=""WHITE"">publications | </font></a><a href=""http://www.isid.org/resources/""><font color=""WHITE"">resources | </font></a><a href=""http://www.isid.org/14th_icid/index.shtml""><font color=""WHITE"">14th ICID | </font></a><a href=""f?p=2400:2400:3192722651255097:::::""><font color=""WHITE"">site map</font></a> 
+            <!-- end: top navigation -->
+          </td>
+          <td width=1 bgcolor=black><img src=""/i/clear.gif"" width=1 height=1></td>
+        </tr>
+        <tr><td colspan=2 height=1 bgcolor=black><img src=""/i/clear.gif"" width=1 height=1></td></tr>
+      </table>
+      <table cellpadding=""0"" cellspacing=""0"" border=""0"" width=""556"">
+        <tr>
+          <td width=""10"" valign=""TOP"" bgcolor=""white"">
+            <img src=""/i/clear.gif"" width=1 height=""100%"">
+            &nbsp;
+          </td>
+          <td width=""234"" valign=""top"">
+            <br>
+            <a href=""f?p=2400:1000:3192722651255097:REPOST:::FSP_LANGUAGE_PREFERENCE:en-US"">
+            <img src=""wwv_flow_file_mgr.get_file?p_security_group_id=84427629377859852&p_fname=logo_promed_new.jpg"" width=""234"" height=""69"" border=""0"" 
+                      alt=""ProMed Home"" /></a>
+          </td>
+          <td width=""312"" valign=""top"">
+            
+          </td>
+        </tr>
+      </table>
+    </td>
+  </tr>
+</table>
+
+<table width=""740"" cellpadding=""0"" cellspacing=""0"" border=""0"">
+  <tr>
+    <td valign=""top"">
+      <table width=""184"" cellpadding=""0"" cellspacing=""0"" border=""0"">
+        <tr>
+          <td width=""4"" valign=""top"">
+             &nbsp;
+          </td>          
+          <td width=""180"" valign=""TOP"">
+            <table border=""0"" cellpadding=""1"" cellspacing=""0"" width=""100%"">
+ <tr>
+  <td bgcolor=black>
+  <table border=""0"" cellpadding=""1"" cellspacing=""0"" width=""100%"" bgcolor=""#006699"">
+   <tr>
+    <td><font class=""regionheaderwhite"">&nbsp;&nbsp;Navigation</font>
+    </td>
+   </tr>
+  </table>
+  <table border=0 cellpadding=0 cellspacing=0 width=100% bgcolor=""#FFFFCC"">
+   <tr>
+    <td height=""25"" class=""leftNavBlock2"" valign=""TOP""><table bgcolor=""#FFFFCC"" cellspacing=2 cellpadding=3 border=0 width=""100%""><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1000:3192722651255097:::::"" class=""leftnav"">Home</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""http://www.isid.org/promedmail/subscribe.lasso "" class=""leftnav"">Subscribe/Unsubscribe</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1200:3192722651255097:::::"" class=""leftnav"">Search Archives</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1300:3192722651255097:::::"" class=""leftnav"">Announcements</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1400:3192722651255097:::::"" class=""leftnav"">Recalls/Alerts</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1500:3192722651255097:::::"" class=""leftnav"">Calendar of Events</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1600:3192722651255097:::::"" class=""leftnav"">Maps&nbsp;of&nbsp;Outbreaks</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1799:3192722651255097:::::"" class=""leftnav"">Submit&nbsp;Info</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1900:3192722651255097:::::"" class=""leftnav"">FAQs</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1951:3192722651255097:::::"" class=""leftnav"">Who's&nbsp;Who</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1952:3192722651255097:::::"" class=""leftnav"">Awards</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1960:3192722651255097:::::"" class=""leftnav"">Citing ProMED-mail</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1970:3192722651255097:::::"" class=""leftnav"">Links</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""http://www.isid.org/ProMEDMail_Donations.shtml"" class=""leftnav"">Donations</a>
+  </td>
+</tr><tr>
+  <td width=""180"" height=""5"">
+    <a href=""f?p=2400:1950:3192722651255097::NO:::"" class=""leftnav"">About ProMED-mail</a>
+  </td>
+</tr></table>
+    </td>
+   </tr>
+  </table>
+  </td>
+ </tr>
+</table>
+<table cellspacing=""3"" border=""0"">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+          </td>
+        </tr>
+      </table>
+    </td>
+    <td valign=""top"">
+      <table width=""556"" valign=""top"" cellpadding=""0"" cellspacing=""0"" border=""0"">
+        <tr valign=""top"">
+          <td width=""2"" valign=""TOP"" bgcolor=""white"">
+            &nbsp;
+          </td>
+          <td width=""554"" valign=""TOP"">
+            <!-- start: main content -->
+            <table summary="""" cellspacing=""0"" cellpadding=""0"" border=""0"" width=""100%""><tr><td align=""left""> <input type=""button"" value=""Back"" onclick=""apex.submit('Back');""  id=""Back""  /></td></tr></table><table id=""apex_layout_271110100662109808"" border=""0"" class=""formlayout"" summary="""" ><tr><td nowrap align=""right""><B>Archive Number</B></td>
+<td nowrap colspan=""1"" rowspan=""1"" align=""left""><span id=""F2400_P1001_ARCHIVE_NUMBER"" class=""display_only"">20110118.0216</span></td></tr><tr><td nowrap align=""right""><B>Published Date</B></td>
+<td nowrap colspan=""1"" rowspan=""1"" align=""left""><span id=""F2400_P1001_PUBLISHED_DATE"" class=""display_only"">18-JAN-2011</span></td></tr><tr><td nowrap align=""right""><B>Subject</B></td>
+<td nowrap colspan=""1"" rowspan=""1"" align=""left""><span id=""F2400_P1001_SUBJECT"" class=""display_only"">PRO/AH/EDR> Undiagnosed hemorrhagic fever, fatal - India (02): (GJ) CCHF conf.</span></td></tr>
+</table>
+<PRE>
+
+UNDIAGNOSED HEMORRHAGIC FEVER, FATAL - INDIA (02): (GUJARAT) 
+CRIMEAN-CONGO HEMORRHAGIC FEVER CONFIRMED
+***************************************************************************
+A ProMED-mail post
+<<a href=""http://www.promedmail.org"" target=""_blank"">http://www.promedmail.org</a>>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<<a href=""http://www.isid.org"" target=""_blank"">http://www.isid.org</a>>
+
+Date: Tue 18 Jan 2010
+Source: Thaindian News, Indo Asian News Service (IANS) report [edited]
+<<a href=""http://www.thaindian.com/newsportal/health1/mystery-virus-which-killed-three-identified_100489848.html"" target=""_blank"">http://www.thaindian.com/newsportal/health1/mystery-virus-which-killed-three-identified_100489848.html</a>>
+
+
+Mystery virus which killed 3 identified
+---------------------------------------
+The mystery virus that created a panic of sorts among the medical 
+fraternity in Ahmedabad [Gujarat] following the death of a patient, 
+her consulting doctor, and nurse, has been identified, state Health 
+Minister Jay Narayan Vyas [in Gandhinagar] Tuesday [18 Jan 2011]. 
+According to the Minister, a sample sent to the National Institute of 
+Virology, Pune [Maharashtra], has been identified as Crimean-Congo 
+hemorrhagic fever (CCHF) [virus].
+
+A woman from Kolat village of Sanand Taluka near Ahmedabad was 
+admitted to a private hospital in Ahmedabad in the 1st week of 
+January [2011] after she was reported suffering from a mysterious 
+fever. The patient subsequently died. There was consternation in 
+medical circles when her consulting doctor, who had examined her, 
+also passed away as did the nurse, who had attended to her.
+
+Vyas said that the state government was not taking chances and a team 
+of experts headed by Kamlesh Upadhyaya has been constituted to take 
+charge of the matter. ""Survey teams have fanned out in a 5 km [3 mi] 
+area of the village to which the patient belonged to carry out a door 
+to door check,"" he added.
+
+Meanwhile, a team from Delhi is expected here in the next 2 days to 
+conduct a study. Municipal health authorities said that random 
+sampling was being done in the city hospitals to check if there was 
+any spread of the virus.
+
+--
+Communicated by:
+Ronan Kelly
+<<a href=""mailto:ronankelly@comcast.net"">ronankelly@comcast.net</a>>
+
+[The previous post in this thread predicted that the undiagnosed 
+fever might be caused by Crimean-Congo haemorrhagic fever virus. The 
+confirmation above becomes the 1st report in ProMED-mail of the 
+occurrence of Crimean-Congo haemorrhagic fever (CCHF) in India.  It 
+is likely that CCHF virus is present ticks in the vicinity of Kolat 
+village and their eradication should be undertaken.
+
+This report records a 3rd death. The deceased are the patient,  the 
+attending physician, and the ICU nurse. The condition of the victim's 
+husband who is being treated in hospital is not revealed. - Mod.CP]
+
+[see also:
+Undiagnosed hemorrhagic fever, fatal - India: (GJ) RFI <a href=""f?p=2400:1001:3192722651255097::::F2400_P1001_BACK_PAGE,F2400_P1001_ARCHIVE_NUMBER,F2400_P1001_USE_ARCHIVE:1001,20110118.0211,Y"">20110118.0211</a>]
+...................................cp/mj/dk
+
+*##########################################################*
+************************************************************
+ProMED-mail makes every effort to  verify  the reports  that
+are  posted,  but  the  accuracy  and  completeness  of  the
+information,   and  of  any  statements  or  opinions  based
+thereon, are not guaranteed. The reader assumes all risks in
+using information posted or archived by  ProMED-mail.   ISID
+and  its  associated  service  providers  shall not be  held
+responsible for errors or omissions or  held liable for  any
+damages incurred as a result of use or reliance upon  posted
+or archived material.
+************************************************************
+Donate to ProMED-mail. Details available at:
+<<a href=""http://www.isid.org/ProMEDMail_Donations.shtml"" target=""_blank"">http://www.isid.org/ProMEDMail_Donations.shtml</a>>
+************************************************************
+Visit ProMED-mail's web site at <<a href=""http://www.promedmail.org"" target=""_blank"">http://www.promedmail.org</a>>.
+Send all items for posting to: <a href=""mailto:promed@promedmail.org"">promed@promedmail.org</a> (NOT to
+an individual moderator).  If you do not give your full name
+name and affiliation,  it may not be posted.  You may unsub-
+scribe at  <<a href=""http://www.isid.org/promedmail/subscribe.lasso"" target=""_blank"">http://www.isid.org/promedmail/subscribe.lasso</a>>.
+For  assistance  from   a   human   being,   send  mail  to:
+<<a href=""mailto:postmaster@promedmail.org"">postmaster@promedmail.org</a>>.
+############################################################
+############################################################
+</PRE>
+<table id=""apex_layout_322958412593973119"" border=""0"" class=""formlayout"" summary="""" ><tr><td nowrap colspan=""1"" rowspan=""1"" align=""left""><input type=""hidden"" name=""p_arg_names"" value=""202079962237774620"" /><input type=""hidden"" id=""F2400_P1001_PUB_MAIL_ID"" name=""p_t01"" value=""86712"" /></td></tr><tr><td></td><td nowrap colspan=""1"" rowspan=""1"" align=""left""><input type=""hidden"" name=""p_arg_names"" value=""268928923957115122"" /><input type=""hidden"" id=""F2400_P1001_BACK_PAGE"" name=""p_t02"" value=""1010"" /></td></tr><tr><td></td><td nowrap colspan=""1"" rowspan=""1"" align=""left""><input type=""hidden"" name=""p_arg_names"" value=""306499425290100350"" /><input type=""hidden"" id=""F2400_P1001_USE_ARCHIVE"" name=""p_t03"" value="""" /></td></tr>
+</table>
+<p>
+            <p>
+            
+            <!-- end: main content -->
+          </td>
+        </tr>
+     </table>
+    </td>
+  </tr>
+</table><table width=""740"" cellpadding=""0"" cellspacing=""0"" border=""0"">
+  <tr>
+    <td width=""740"" align=""center"" valign=""bottom"" class=""bottomNav"">
+      <!-- start: bottom navigation --> <a href=""http://www.isid.org/about/"">about ISID | </a><a href=""http://www.isid.org/membership/"">membership | </a><a href=""http://www.isid.org/programs/"">programs | </a><a href=""http://www.isid.org/publications/"">publications | </a><a href=""http://www.isid.org/resources/"">resources<br></a><a href=""http://www.isid.org/14th_icid/index.shtml"">14th ICID | </a><a href=""f?p=2400:2400:3192722651255097:::::"">site map | </a><a href=""http://www.isid.org"">ISID home</a> <DIV ALIGN=""CENTER""><table>
+
+<tr><td><center><br>
+©2001,2009 International Society for Infectious Diseases<br>
+All Rights Reserved.<br>
+Read our <a href=""f?p=2400:9111:3192722651255097"">privacy&nbsp;guidelines</a>.<br>
+Use of this web site and related services is governed by the <a href=""f?p=2400:9112:3192722651255097"">Terms&nbsp;of&nbsp;Service</a>.
+</center></td></tr>
+<tr><td align=center></td></tr>
+
+</table></DIV>
+    </td>
+  </tr>
+</table>
+<input type=""hidden"" name=""p_md5_checksum"" value=""""  /></form>
+<script type=""text/javascript"">
+var gaJsHost = ((""https:"" == document.location.protocol) ? ""https://ssl."" : ""http://www."");
+document.write(unescape(""%3Cscript src='"" + gaJsHost + ""google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E""));
+</script>
+<script type=""text/javascript"">
+var pageTracker = _gat._getTracker(""UA-3976562-1"");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+<script type=""text/javascript"">
+<!-- 
+
+//-->
+</script></body>
+</html>"
+5087887	5087887	['Undiagnosed illness - Pakistan (02): (NW) Crimean-Congo hem. fever CCHF conf.']	29.967020	69.385971	5	5087887	1	PRO/AH/EDR> Undiagnosed illness - Pakistan (02): (NW) Crimean-Congo hem. fever CCHF conf.	2017-06-06 17:02:12	2017-06-06 17:02:12		A total of 4 persons named RJ, N, AH, and AR have died while a relative of N is hospitalized and found positive for CCHF.<br/><br/>--<br/>Communicated by:<br/>EpiCore Surveillance Project member<br/>Sher Bahadar<br/>Assistant Professor<br/>The University of Agriculture<br/>Peshawar<br/>Khyber Pakhtunkhwa<br/><br/>[ProMED thanks Assistant Prof. Bahadar from the EpiCore network for the information confirming the diagnosis of CCHF as follow-up to our posting on suspected CCHF cases in Khyber Pakhtunkhwa. Availability of early and 		0		20170606.5087887		14321			"UNDIAGNOSED ILLNESS - PAKISTAN (02): (KHYBER PAKHTUNKHWA), CCHF CONFIRMED
+*************************************************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+Date: TuE 6 Jun 2017
+Source: EpiCore Surveillance Project [edited]
+
+
+A total of 4 persons named RJ, N, AH, and AR have died while a relative of N is hospitalized and found positive for CCHF.
+
+--
+Communicated by:
+EpiCore Surveillance Project member
+Sher Bahadar
+Assistant Professor
+The University of Agriculture
+Peshawar
+Khyber Pakhtunkhwa
+
+[ProMED thanks Assistant Prof. Bahadar from the EpiCore network for the information confirming the diagnosis of CCHF as follow-up to our posting on suspected CCHF cases in Khyber Pakhtunkhwa. Availability of early and rapid diagnostic tools is vital to control of zoonoses such as CCHF. - Mod.UBA
+
+A HealthMap/ProMED-mail map can be accessed at: <http://healthmap.org/promed/p/140>.]
+
+[See Also:
+Undiagnosed illness - Pakistan: (NW) Crimean-Congo hem. fever susp, RFI 20170605.5085516
+Crimean-Congo hem. fever - Pakistan (05): (BA) 20170508.5019548
+Crimean-Congo hem. fever - Pakistan (04): (BA) 20170424.4989435
+Crimean-Congo hem. fever - Pakistan (03): (PB) 20170420.4981151
+Crimean-Congo hem. fever - Pakistan (02): (PB) 20170317.4906841
+Crimean-Congo hem. fever - Pakistan: (IS) susp, not 20170316.4904498
+2016
+----
+Crimean-Congo hem. fever - Pakistan (25): (SD) new case 20161101.4598918
+Crimean-Congo hem. fever - Pakistan (24): (SD) new case, fatal 20161017.4564439
+Crimean-Congo hem. fever - Pakistan (23): (SD) new case, fatal 20161005.4536108
+Crimean-Congo hem. fever - Pakistan (22): (NW, PB) new cases 20160927.4516191
+Crimean-Congo hem. fever - Pakistan (21): (PB) new case 20160922.4508287
+Crimean-Congo hem. fever - Pakistan (20): (PB, BA) fatal 20160919.4499623
+Crimean-Congo hem. fever - Pakistan (19): (BA) new cases 20160917.4494917
+Crimean-Congo hem. fever - Pakistan (18): (BA,PB) 20160912.4481397
+Crimean-Congo hem. fever - Pakistan (20): (PB, BA) fatal 20160919.4499623
+Crimean-Congo hem. fever - Pakistan (17): (BA,PB) new cases 20160910.4475883
+Crimean-Congo hem. fever - Pakistan (16): (NW,BA) RFI 20160906.4468767
+Crimean-Congo hem. fever - Pakistan (15): (BA) 20160905.4465412
+Crimean-Congo hem. fever - Pakistan (14): (SD) case, safety 20160903.4460467
+Crimean-Congo hem. fever - Pakistan (13): (SD) fatal, ex Afghanistan 20160901.4458312
+Crimean-Congo hem. fever - Pakistan (12): (SD) fatal, RFI 20160831.4452554
+Crimean-Congo hem. fever - Pakistan (11): (BA) new cases 20160827.4445376
+Crimean-Congo hem. fever - Pakistan (10): cases, emergency measures 20160825.4436463
+Crimean-Congo hem. fever - Pakistan (09): new case, veterinary measures 20160823.4432350
+Crimean-Congo hem. fever - Pakistan (08): (SD) new case, fatal, RFI 20160821.4431558
+Crimean-Congo hem. fever - Pakistan (07): (PB,SD) new cases 20160816.4414856
+Crimean-Congo hem. fever - Pakistan (06): (PB) new case, livestock updates 20160804.4387630
+Crimean-Congo hem. fever - Pakistan (05): (PB) 20160801.4383881
+Crimean-Congo hem. fever - Pakistan (04): (PB) RFI 20160730.4381868
+Crimean-Congo hem. fever - Pakistan (03): (NW) fatal 20160521.4236156
+Crimean-Congo hem. fever - Pakistan (02): (NW,BA) fatal 20160429.4191092
+Crimean-Congo hem. fever - Pakistan: (PB) 20160319.4106315
+2015
+----
+Crimean-Congo hem. fever - Pakistan (20): (PB) 20151208.3849322
+Crimean-Congo hem. fever - Pakistan (10): (BA) 20150918.3653698
+Crimean-Congo hem. fever - Pakistan (05): ex Afghanistan, Iran 20150625.3465423
+Crimean-Congo hem. fever - Pakistan: (SD) 20150115.3095371
+and other items in the archives]
+.................................................uba/ec/mpp"
+2187683	2187683	['PROMED: CCHF - Serbia: RFI']	43.867039	20.899031	5	2187683	1	PROMED: CCHF - Serbia: RFI	1996-01-09 23:50:00	2008-12-30 11:43:03				0		19960109.0040	c662f066a0bccb33f425542aaa79d6ee				"<PRE>
+
+
+
+From: Jack Woodall <<a href=""mailto:jack.woodall@wadsworth.org"">jack.woodall@wadsworth.org</a>>
+Date: Tue, 9 Jan 1996 15:56:49 -0500
+
+
+CONGO-CRIMEAN HEMORRHAGIC FEVER - SERBIA: REQUEST FOR INFO
+==========================================================
+
+Source: Laurie Garrett, The Return of Infectious Disease.  Foreign Affairs
+vol.7 no.1 Jan/Feb 1996, pp.66-79.
+----------------------------------
+
+The writer states (p.74) that a large outbreak of CCHF occurred recently in
+the Kosovo region.  Does anyone have more information? - Moderator
+............................................................................
+
+
+
+  *##########################################################*
+  ProMED-mail makes every effort to  verify  the reports  that
+  are  posted,  but  the  accuracy  and  completeness  of  the
+  information,   and  of  any  statements  or  opinions  based
+  thereon, are not guaranteed. The reader assumes all risks in
+  using information posted or archived by  ProMED-mail.   ISID
+  and  its  associated  service  providers  shall not be  held
+  responsible for errors or omissions or  held liable for  any
+  damages incurred as a result of use or reliance upon  posted
+  or archived material.
+  ************************************************************
+  Visit ProMED-mail's web site at <<a href=""http://www.promedmail.org"" target=""_blank"">http://www.promedmail.org</a>>.
+  Send  all  items  for   posting  to:   <a href=""mailto:promed@promedmail.org"">promed@promedmail.org</a>
+  (NOT to  an  individual moderator).  If you do not give your
+  full name and  affiliation, it  may  not  be  posted.   Send
+  commands  to  subscribe/unsubscribe,   get  archives,  help,
+  etc. to: <a href=""mailto:majordomo@promedmail.org"">majordomo@promedmail.org</a>.    For assistance  from a
+  human  being  send  mail  to:   <a href=""mailto:owner-promed@promedmail.org"">owner-promed@promedmail.org</a>.
+  ############################################################
+  ############################################################
+</PRE>"
+6351946	6351946	['Arboviruses - Mediterranean Basin & Black Sea Region: West Nile, CCHF surveillance']	43.867039	20.899031	5	6351946	1	PRO/AH/EDR> Arboviruses - Mediterranean Basin & Black Sea Region: West Nile, CCHF surveillance 	2019-03-07 09:19:01	2019-03-07 09:19:01				0		20190307.6351946		14321			"ARBOVIRUSES - MEDITERRANEAN BASIN AND BLACK SEA REGION: WEST NILE, CCHF SURVEILLANCE
+************************************************************************************
+A ProMED-mail post
+<http://www.promedmail.org>
+ProMED-mail is a program of the
+International Society for Infectious Diseases
+<http://www.isid.org>
+
+Date: Tue 5 Mar 2019
+From: Maria Grazia Dente <mariagrazia.dente@iss.it> [edited]
+
+
+Arbovirus infections are emerging and re-emerging in several regions of the word because of several concomitant factors, including environmental and climate changes.
+
+To contrast the diffusion of these infections, One Health intersectoral collaboration in the field of prevention, surveillance, and control can have a great impact.
+
+The Public Health Working Group of MediLabSecure Network (<https://www.medilabsecure.com/>) has designed and conducted a situation analysis study to document how integration of laboratory/clinical human, animal, and entomological surveillance of arboviruses is being implemented in the Mediterranean and Black Sea Region. They applied a framework designed to assess 3 levels of integration: policy/institutional, data collection/data analysis, and dissemination.
+
+The use of Business Process Modelling Notation (BPMN) to graphically present evidence of intersectoral integration was also tested.
+
+Serbia, Tunisia, and Georgia participated in the study. West Nile virus surveillance was analysed in Serbia and Tunisia, Crimea‐Congo haemorrhagic fever surveillance in Georgia. The framework enabled a standardized analysis of One Health surveillance integration, and BPMN was easily understandable and conducive to detailed discussions among different actors/institutions. In all countries, integration across sectors and levels was observed except in data collection and data analysis. Data collection was interoperable only in Georgia without integrated analysis. In all countries, surveillance was mainly oriented towards outbreak response, triggered by an index human case.
+Additional information in the article at <https://onlinelibrary.wiley.com/doi/full/10.1111/zph.12562>
+
+It would be worthwhile sharing situations from other countries.
+
+--
+Maria Grazia Dente
+Istituto Superiore di Sanita
+Rome
+Italy
+<mariagrazia.dente@iss.it>
+
+[ProMED thanks Maria Grazia Dente for this useful contribution. The publication referred to above discusses the importance of multisectoral integration and use of the One Health approach towards control of Arbovirus infections. Surveillance data from 3 countries in the Mediterranean region focused on West Nile Virus in Tunisia and Serbia and CCHF in Georgia. The concept of 'One Health' has evolved as a collaborative effort of multiple disciplines to attain optimal health for people, animals, and the environment. The paper also identified certain 'recurrent' features in the 3 surveillance systems.
+
+""The Study has highlighted that some features are common across all the 3 countries. In particular:
+Animal and entomological surveillance are integral part of the systems, but the central role of the human surveillance is underlined by several factors:
+- it is always the detection/notification of suspected human case/s that triggers the response of the systems and starts the flow of communication between sectors;
+- a strategic plan and a multisector committee have been established in the three countries and are always under the coordination of the Directorates in charge for human surveillance;
+- the human sector can be delegated by the other sectors in the dissemination of data and information and in the communication to the public, but the opposite is rare.""
+
+The authors conclude that, ""Surveillance is at the core of all public health activities and is essential to prevent, detect, and respond to health threats effectively. It is conceivable that One Health surveillance may lead to faster disease detection, more efficient disease control and tangible financial savings when formally compared against separated surveillance streams especially in the case of arbovirus infections."" - Mod.UBA
+
+HealthMap/ProMED-mail maps:
+Serbia: <http://healthmap.org/promed/p/79>
+Tunisia: <http://healthmap.org/promed/p/71>
+Georgia: <http://healthmap.org/promed/p/61924>]
+
+[See Also:
+2018
+---
+West Nile virus (71): Africa (Tunisia) 20181212.6205072
+West Nile virus (69): Africa (Tunisia) equine, OIE 20181209.6200571
+West Nile virus (52): Africa (Tunisia) 20181009.60744652017
+West Nile virus (70): Europe, ECDC update 20181212.6201294
+West Nile virus (67): Europe, ECDC update 20181126.6160167
+2017
+----
+Arbovirus clusters - South Africa: West Nile, Sindbis, alert 20170224.4861086
+2014
+----
+Crimean-Congo hem. fever - Georgia (02) 20140818.2701266
+Crimean-Congo hem. fever - Georgia 20140522.2489370
+and other items in the archives]
+.................................................uba/mj/jh"
